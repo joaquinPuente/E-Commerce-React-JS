@@ -1,0 +1,32 @@
+.NavB {
+  display: flex;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  height: 60px;
+}
+
+.logoTitle {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+  }
+
+.divCarrito {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.cat {
+  margin-top: 15px;
+}
